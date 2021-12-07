@@ -2,6 +2,8 @@
 
 //test comment
 
+// test 2
+
 class Producto{
 
     constructor(nombre, precio, year){

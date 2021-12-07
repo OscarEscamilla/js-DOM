@@ -1,4 +1,4 @@
-//archivo que contiene la logica 
+//archivo que contiene la logica de como manejar ventos
 
 class Producto{
 
